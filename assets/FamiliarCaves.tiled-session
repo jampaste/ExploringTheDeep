@@ -1,0 +1,119 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "TheDeep.tmx",
+    "expandedProjectPaths": [
+        "kenney_pixel-platformer",
+        ".",
+        "kenney_pixel-platformer/Tiled"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "#BACKGROUND!": {
+            "scaleInEditor": 1
+        },
+        "#SpriteNormal": {
+            "scaleInEditor": 1
+        },
+        "C:/Users/jchen/Downloads/Schol Tem/Spring 2023 2024/CMPM 120/PlatformImprovement/assets/platformer-level-1.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 512.3333333333333,
+                "y": 224
+            }
+        },
+        "C:/Users/jchen/Downloads/Schol Tem/Spring 2023 2024/CMPM 120/PlatformImprovement/assets/platformer-level-1.tmj#kenny_tilemap_packed": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/jchen/Downloads/Schol Tem/Spring 2023 2024/CMPM 120/PlatformImprovement/assets/platformer-level-1.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 431.5,
+                "y": 224
+            }
+        },
+        "C:/Users/jchen/Downloads/Schol Tem/Spring 2023 2024/CMPM 120/PlatformImprovement/assets/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "C:/Users/jchen/Downloads/Schol Tem/Spring 2023 2024/CMPM 120/StarterPlatformer/assets/platformer-level-1.tmx": {
+            "scale": 0.9737499999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 371.245186136072,
+                "y": 179.204107830552
+            }
+        },
+        "C:/Users/jchen/Downloads/Schol Tem/Spring 2023 2024/CMPM 120/StarterPlatformer/assets/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "TheDeep.tmx": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 415,
+                "y": 242
+            }
+        },
+        "TheDeep.tmx#Blocky": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TheDeep.tmx#Farm": {
+            "scaleInDock": 1.5
+        },
+        "TheDeep.tmx#MachineWorld": {
+            "scaleInDock": 1.5
+        },
+        "TheDeep.tmx#background": {
+            "scaleInDock": 1
+        },
+        "TheDeep.tmx#foodworld": {
+            "scaleInDock": 1.5
+        },
+        "TheDeep.tmx#sprtite": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        }
+    },
+    "frame.defaultDuration": 300,
+    "last.externalTilesetPath": "C:/Users/jchen/Downloads/Schol Tem/Spring 2023 2024/CMPM 120/ExploringTheDeep/assets/kenney_pixel-platformer-blocks/Tilemap",
+    "last.imagePath": "C:/Users/jchen/Downloads/Schol Tem/Spring 2023 2024/CMPM 120/ExploringTheDeep/assets",
+    "map.height": 100,
+    "map.lastUsedFormat": "json",
+    "map.width": 50,
+    "openFiles": [
+        "TheDeep.tmx"
+    ],
+    "project": "FamiliarCaves.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "TheDeep.tmx",
+        "C:/Users/jchen/Downloads/Schol Tem/Spring 2023 2024/CMPM 120/PlatformImprovement/assets/platformer-level-1.tmj",
+        "C:/Users/jchen/Downloads/Schol Tem/Spring 2023 2024/CMPM 120/PlatformImprovement/assets/platformer-level-1.tmx",
+        "C:/Users/jchen/Downloads/Schol Tem/Spring 2023 2024/CMPM 120/StarterPlatformer/assets/platformer-level-1.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "All Files (*)",
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}
